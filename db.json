@@ -1,0 +1,76 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "name": "How I met your mother",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "Muito bom"
+    },
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "watching",
+      "genre": "Comédia",
+      "current": {
+        "episode": "01",
+        "season": "09"
+      },
+      "comments": "Bom para descontrair"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Say My Name - melhor cena"
+    },
+    {
+      "id": 4,
+      "name": "Better Call Saul",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "Galera fala bem"
+    },
+    {
+      "name": "Marley",
+      "status": "watching",
+      "genre": "Drama",
+      "comments": "Ainda formando uma opnão",
+      "id": 7
+    },
+    {
+      "name": "La casa de papel",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "Ótima série, recomendo!",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "La casa de papel 2",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "Ótima série, recomendo!"
+    },
+    {
+      "name": "Death Note",
+      "status": "watched",
+      "genre": "Ação",
+      "comments": "MUUUITO FODA!",
+      "id": 10
+    },
+    {
+      "name": "Os trapalhões",
+      "status": "toWatch",
+      "genre": "Comédia",
+      "comments": "Recomandada",
+      "id": 11
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
