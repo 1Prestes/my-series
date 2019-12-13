@@ -35,7 +35,7 @@ Distribuído sob a licença MIT licence. Veja `LICENSE` para mais informações.
 
 ## Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/1Prestes/Question-Book/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/1Prestes/my-series/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
